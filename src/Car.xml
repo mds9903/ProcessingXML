@@ -1,0 +1,12 @@
+<Car>
+    <color>purple</color>
+    <type>sedan</type>
+</Car>
+<Car>
+<color>blue</color>
+<type>semi truck</type>
+</Car>
+<Car>
+<color>purple</color>
+<type>sedan</type>
+</Car><Car><color>blue</color><type>semi truck</type></Car><Car><color>purple</color><type>sedan</type></Car>
